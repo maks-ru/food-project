@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Проект Food Project(https://maks-ru.github.io/food-project/)
 
 ## Available Scripts
 
