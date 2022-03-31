@@ -1,4 +1,4 @@
-## Проект Food Project(https://maks-ru.github.io/food-project/)
+## ![Проект Food Project](https://maks-ru.github.io/food-project/)
 
 ## Available Scripts
 
