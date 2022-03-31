@@ -15,11 +15,11 @@
 
 ✅ Детального просмотра рецепта;
 
-###Список использованных технологий:
+### Список использованных технологий:
 
-react-loader-spinner
-react-redux
-react-router-dom
-redux-logger
-materialize css
+1.react-loader-spinner
+2.react-redux
+3.react-router-dom
+4.redux-logger
+5.materialize css
 
